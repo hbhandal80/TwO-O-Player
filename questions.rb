@@ -1,4 +1,4 @@
-class questions
+class Questions
   attr_reader :answer
 
   def initialize
